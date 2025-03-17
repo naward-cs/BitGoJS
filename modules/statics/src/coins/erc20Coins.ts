@@ -10224,7 +10224,7 @@ export const erc20Coins = [
     'eth:una',
     'Unagi Token',
     18,
-    '0x0B6f3eA2814F3FFf804bA5D5c237aebbc364fba9',
+    '0x0b6f3ea2814f3fff804ba5d5c237aebbc364fba9',
     UnderlyingAsset['eth:una']
   ),
   erc20(
@@ -10232,7 +10232,7 @@ export const erc20Coins = [
     'eth:ads',
     'Alkimi',
     18,
-    '0x3106a0a076BeDAE847652F42ef07FD58589E001f',
+    '0x3106a0a076bedae847652f42ef07fd58589e001f',
     UnderlyingAsset['eth:ads']
   ),
   terc20(

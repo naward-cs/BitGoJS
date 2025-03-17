@@ -2546,9 +2546,7 @@ export const solTokens = [
     'E1R4RF89GcKxz62DVfojxDJteLFFs8rtiXcGcrx5HbTj',
     'E1R4RF89GcKxz62DVfojxDJteLFFs8rtiXcGcrx5HbTj',
     UnderlyingAsset['sol:matrix'],
-    [
-      ...SOL_TOKEN_FEATURES,
-    ]
+    SOL_TOKEN_FEATURES
   ),
   solToken(
     '88814831-9cae-4174-8d1c-380aeb3fe55a',
@@ -2558,9 +2556,7 @@ export const solTokens = [
     'DghpMkatCiUsofbTmid3M3kAbDTPqDwKiYHnudXeGG52',
     'DghpMkatCiUsofbTmid3M3kAbDTPqDwKiYHnudXeGG52',
     UnderlyingAsset['sol:eurcv'],
-    [
-      ...SOL_TOKEN_FEATURES,
-    ]
+    SOL_TOKEN_FEATURES
   ),
 
   tsolToken(
